@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/phanhieu2507](https://github.com/phanhieu2507)
 
+- 📝 I regularly write articles on [https://viblo.asia/p/tim-hieu-ve-moi-quan-he-nhieu-nhieu-trong-lavarel-bXP4WAOrL7G](https://viblo.asia/p/tim-hieu-ve-moi-quan-he-nhieu-nhieu-trong-lavarel-bXP4WAOrL7G)
+
 - 💬 Ask me about **React,Lavarel**
 
 - 📫 How to reach me **phanhieu2572002@gmail.com**
